@@ -1,43 +1,23 @@
-# 🦊 morellam-dev 🦊
+# morellam-dev <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
 ```js
 /** 
  * @file   README.md
- * @author Mae Morella
  *                                                  _ _
  *  _ __ ___   __ _  ___   _ __ ___   ___  _ __ ___| | | __ _
  * | '_ ` _ \ / _` |/ _ \ | '_ ` _ \ / _ \| '__/ _ \ | |/ _` |
  * | | | | | | (_| |  __/ | | | | | | (_) | | |  __/ | | (_| |
  * |_| |_| |_|\__,_|\___| |_| |_| |_|\___/|_|  \___|_|_|\__,_|
+ *
+ * Move fast and make things.
  */
-import { Profile } from "github-profile";
+ ```
 
-const me = new Profile("morellam-dev", {
-  name: "Mae Bailey Morella",
-  pronouns: "She/They",
-  accent_emojis: ['🦊', '🦉', '💻 ', '⚡']
-})
-me.education = {
-  school: "Kennesaw State University",
-  degree: "B.S in Computer Science",
-  getStatus: (year) => assert(year < 2022) && "In progress!",
-};
-me.languages = [
-  "NodeJS", "HTML/CSS", "React", "Java", "C#", "C++"
-];
-```
-
-<!--
-**morellam-dev/morellam-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+- 🙂 Mae Morella (she/her)
+- 🎓 Studying at **Kennesaw State University**, Kennesaw, GA (2019–2022)
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - 👩‍💻 Bachelor of Computer Science
+  - 📝 Minor in Professional Writing
+  - 💻 Minor in Software Engineering
+- 📫 How to reach me:
+  - ✉️ [mae.b.morella+github2022 (at) gmail.com](mailto:%6d%61%65%2e%62%2e%6d%6f%72%65%6c%6c%61+github2022@%67%6d%61%69%6c%2e%63%6f%6d)

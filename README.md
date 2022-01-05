@@ -18,4 +18,5 @@
   - 📝 Minor in Professional Writing
   - 💻 Minor in Software Engineering
 - 📫 How to reach me:
-  - ✉️ [mae.b.morella+github2022 (at) gmail.com](mailto:%6d%61%65%2e%62%2e%6d%6f%72%65%6c%6c%61+github2022@%67%6d%61%69%6c%2e%63%6f%6d)
+  - <img width="20" alt="Twitter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" /> [morella_mae @ Twitter](https://twitter.com/morella_mae)
+  - <img width="20" alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> [Mae Morella @ LinkedIn](https://www.linkedin.com/in/morellam/)

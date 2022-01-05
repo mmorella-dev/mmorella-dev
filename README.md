@@ -12,8 +12,7 @@
  * Move fast and make things.
  */
  ```
-
-- 🙂 Mae Morella (she/her)
+ 
 - 🎓 Studying at **Kennesaw State University**, Kennesaw, GA (2019–2022)
 - 🔭 I’m currently working on ...
   - 👩‍💻 Bachelor of Computer Science

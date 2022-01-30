@@ -17,6 +17,5 @@
   - 👩‍💻 Bachelor of Computer Science
   - 📝 Minor in Professional Writing
   - 💻 Minor in Software Engineering
-- 📫 How to reach me:
-  - <img width="20" alt="Twitter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" /> [morella_mae @ Twitter](https://twitter.com/morella_mae)
-  - <img width="20" alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> [Mae Morella @ LinkedIn](https://www.linkedin.com/in/morellam/)
+- 📫 Social links:
+  - [<img width="25" height="20" alt="Twitter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />](https://twitter.com/morella_mae) [<img height="20" alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/morellam/)

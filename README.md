@@ -12,10 +12,11 @@
  */
  ```
  
-- 🎓 Studying at **Kennesaw State University**, Kennesaw, GA (2019–2022)
+- 🎓 Studying at **Kennesaw State University** (2019–2022)
 - 🔭 I’m currently working on ...
   - 👩‍💻 Bachelor of Computer Science
   - 📝 Minor in Professional Writing
   - 💻 Minor in Software Engineering
-- 📫 Social links:
-  - [<img width="25" height="20" alt="Twitter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />](https://twitter.com/morella_mae) [<img height="20" alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/morellam/)
+- 📫 Social links ...
+  - [<img height="20" alt="Twitter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" /> twitter.com/morella_mae](https://twitter.com/morella_mae)
+  - [<img height="20" alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> linkedin.com/in/morellam](https://www.linkedin.com/in/morellam/)

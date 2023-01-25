@@ -18,4 +18,5 @@
   - 📝 Minor in Professional Writing
   - 💻 Minor in Software Engineering
 - 📫 Social links ...
-  - [<img height="20" alt="Twitter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" /> twitter.com/_mmorella](https://twitter.com/_mmorella)
+  - [twitter.com/_mmorella](https://twitter.com/_mmorella)
+  - [hackerrank.com/morellam_dev](https://www.hackerrank.com/morellam_dev)

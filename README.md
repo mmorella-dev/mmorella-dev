@@ -12,7 +12,7 @@
  */
  ```
  
-- 🎓 Studying at **Kennesaw State University** (2019–2022)
+- 🎓 Studying at **Kennesaw State University** (2019–2023)
 - 🔭 I’m currently working on ...
   - 👩‍💻 Bachelor of Computer Science
   - 📝 Minor in Professional Writing

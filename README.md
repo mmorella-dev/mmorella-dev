@@ -12,11 +12,13 @@
  */
  ```
  
-- 🎓 Studying at **Kennesaw State University** (2019–2023)
-- 🔭 I’m currently working on ...
+- 🎓 Kennesaw State University (2019–2023)
   - 👩‍💻 Bachelor of Computer Science
   - 📝 Minor in Professional Writing
   - 💻 Minor in Software Engineering
+- 🔭 I’m currently working on ...
+  - Just graduated! Seeking employment 
+
 - 📫 Social links ...
   - [twitter.com/_mmorella](https://twitter.com/_mmorella)
   - [hackerrank.com/morellam_dev](https://www.hackerrank.com/morellam_dev)

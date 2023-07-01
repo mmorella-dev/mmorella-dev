@@ -20,5 +20,5 @@
   - Just graduated! Seeking employment 
 
 - 📫 Social links ...
-  - [twitter.com/_mmorella](https://twitter.com/_mmorella)
-  - [hackerrank.com/morellam_dev](https://www.hackerrank.com/morellam_dev)
+  - [Twitter](https://twitter.com/_mmorella)
+  - [HackerRank](https://www.hackerrank.com/morellam_dev)
